@@ -19,4 +19,37 @@
   
 3. Exercise: Break Google Yourself: 개발자도구를 활용해서 편한대로 바꿔보기.
 
-4. 
+4. The Internet Backbone
+    - What Do The Arrows Mean?
+      - send off IP address to the servers the server responds with some files(HTML,CSS,Javascript)
+    ![Internet_backbone](img/KakaoTalk_20210104_213858892.jpg)
+    - Internet Map
+      - The Opte Project
+      - The Internet is all these connected computers that are transferring files between each other
+    ![The_Opte_Project](img/KakaoTalk_20210104_213858892_01.jpg)
+
+5. Traceroute
+    - can moniter, can see all IP addresses are different computers, that are trying to locate the website servers
+    - Terminal or CMD
+      - Mac: traceroute 'website address'
+      - Windows: tracert 'website address'
+    ``` 
+        ~/Desktop> tracert google.com
+
+        최대 30홉 이상의
+        google.com [172.217.174.110](으)로 가는 경로 추적:
+
+          1     2 ms     2 ms     1 ms XXX.XX.X.XXX <- 내컴퓨터IP
+          ...
+           21   207 ms   193 ms   200 ms  nrt12s28-in-f14.1e100.net [172.217.174.110] <-Google Server
+
+        추적을 완료했습니다.
+    ```
+  
+6. Exercise: Running traceroute
+    - https://www.inmotionhosting.com/support/website/hot-to/read-traceroute
+    - 자료와 실행결과가 다른 경우: IP address가 IPv6이기 때문, IPv4 hops로 강제 시켜주면 됨.
+      - 예시: tracert -4 google.com
+    - * 표시: Timeout -> Internet connection or widespread use of firewalls and other security practices by the company that own that server 
+
+7.  
