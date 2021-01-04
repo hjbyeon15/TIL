@@ -9,6 +9,10 @@
 - Udemy 강의 수강 내용
 - [The Complete Web Developer in 2021: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/9135004#overview)
 
+## 코딩테스트
+- 코딩테스트 연습
+- [이것이 취업을 위한 코딩테스트다with파이썬](코딩테스트/CHAPTER03_그리디.md)
+
 
 
 
