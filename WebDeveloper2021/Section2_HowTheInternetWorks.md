@@ -47,9 +47,24 @@
     ```
   
 6. Exercise: Running traceroute
-    - https://www.inmotionhosting.com/support/website/hot-to/read-traceroute
-    - 자료와 실행결과가 다른 경우: IP address가 IPv6이기 때문, IPv4 hops로 강제 시켜주면 됨.
-      - 예시: tracert -4 google.com
-    - * 표시: Timeout -> Internet connection or widespread use of firewalls and other security practices by the company that own that server 
+   - https://www.inmotionhosting.com/support/website/hot-to/read-traceroute
+   - 자료와 실행결과가 다른 경우: IP address가 IPv6이기 때문, IPv4 hops로 강제 시켜주면 됨.
+   - 예시: tracert -4 google.com
+   - * 표시: Timeout -> Internet connection or widespread use of firewalls and other security practices by the company that own that server 
 
-7.  
+7.  DEVELOPER FUNDMENTALS: I
+  - 'google.com' -> Google Servers 
+  - Google Servers respond with HTML,CSS,Javascript
+  - Think of one way to make websites load faster 
+    - Location of Server
+    - How Many Trips
+    - Size Of Files
+
+8.  What Does A Developer Do?
+  - Back-End Developer
+  - Front-End Developer
+  - Full Stack Developer
+  
+9. Optional: The Article Which Inspired This Course(기사)
+    
+10. Web Developer Monthly(뉴스레터)  
