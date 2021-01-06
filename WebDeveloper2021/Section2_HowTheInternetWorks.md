@@ -59,12 +59,14 @@
     - Location of Server
     - How Many Trips
     - Size Of Files
+![HowWebSiteFast](img/KakaoTalk_20210106_184152439.jpg)
 
-8.  What Does A Developer Do?
+1.  What Does A Developer Do?
   - Back-End Developer
   - Front-End Developer
   - Full Stack Developer
+  ![Developer](img/KakaoTalk_20210106_184152439_01.jpg)
   
-9. Optional: The Article Which Inspired This Course(기사)
+2. Optional: The Article Which Inspired This Course(기사)
     
-10. Web Developer Monthly(뉴스레터)  
+3.  Web Developer Monthly(뉴스레터)  
