@@ -59,13 +59,13 @@
     - Location of Server
     - How Many Trips
     - Size Of Files
-![HowWebSiteFast](img/KakaoTalk_20210106_184152439.jpg)
+![HowWebSiteFast](img/KakaoTalk_20210106_184152439.jpg){: width="100" height="50"}
 
 1.  What Does A Developer Do?
   - Back-End Developer
   - Front-End Developer
   - Full Stack Developer
-  ![Developer](img/KakaoTalk_20210106_184152439_01.jpg)
+  ![Developer](img/KakaoTalk_20210106_184152439_01.jpg){: width="100" height="50"}
   
 2. Optional: The Article Which Inspired This Course(기사)
     
