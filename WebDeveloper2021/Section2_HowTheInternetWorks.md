@@ -52,7 +52,7 @@
    - 예시: tracert -4 google.com
    - * 표시: Timeout -> Internet connection or widespread use of firewalls and other security practices by the company that own that server 
 
-7.  DEVELOPER FUNDMENTALS: I
+7.  DEVELOPER FUNDMENTALS: Ⅰ
   - 'google.com' -> Google Servers 
   - Google Servers respond with HTML,CSS,Javascript
   - Think of one way to make websites load faster 
@@ -61,12 +61,12 @@
     - Size Of Files
 ![HowWebSiteFast](img/KakaoTalk_20210106_184152439.jpg)
 
-1.  What Does A Developer Do?
+8.  What Does A Developer Do?
   - Back-End Developer
   - Front-End Developer
   - Full Stack Developer
   ![Developer](img/KakaoTalk_20210106_184152439_01.jpg)
   
-2. Optional: The Article Which Inspired This Course(기사)
+9. Optional: The Article Which Inspired This Course(기사)
     
-3.  Web Developer Monthly(뉴스레터)  
+10.  Web Developer Monthly(뉴스레터)  
