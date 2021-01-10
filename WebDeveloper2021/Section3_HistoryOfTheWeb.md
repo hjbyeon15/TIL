@@ -28,4 +28,22 @@
   - 'The browser wars' where each browser was kind of doing its own thing implementing different things
   - mobile phones, iPads ...
   - 어느 환경에서든 웹 사이트를 볼 수 있어야 한다.(고민점)
-  
+
+### 4. Devloper History
+  - How web applications were built in the early 2000s
+  - JQuery: a library that allowed javascript to be written in simple, clean way that allowed us not to worry too much about working in one browsers, and the other
+  - LAMP stack: Linux, Apache, MySQL, and PHP
+  - PHP to write files that allowed us to have logic on the servers.
+  - Apache server: a software that really efficiently servers up files. 
+  - Course Plan
+
+### 5. Exercise: Adding CSS and JavaScript to Tim's website
+  - [Tim's website](http://info.cern.ch/hypertext/WWW/TheProject.html)
+  - Elements tab is for the HTML
+  - Style tab is for the CSS
+  - Console tab is to enter javascript
+
+### 6. Optional Resource: More about the history of the web
+  1. [Computer Networks](https://www.youtube.com/watch?v=3QhU9jd03a0&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=29)
+  2. [Internet](https://www.youtube.com/watch?v=AEaKrq3SpW8&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=30)
+  3. [WordWideWeb](https://www.youtube.com/watch?v=guvsH5OFizE&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=31)]
