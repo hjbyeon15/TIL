@@ -31,11 +31,13 @@
 
 ### 4. Devloper History
   - How web applications were built in the early 2000s
+  ![Full-Stack_Devloper](img/KakaoTalk_20210110_212701012.jpg)
   - JQuery: a library that allowed javascript to be written in simple, clean way that allowed us not to worry too much about working in one browsers, and the other
   - LAMP stack: Linux, Apache, MySQL, and PHP
   - PHP to write files that allowed us to have logic on the servers.
   - Apache server: a software that really efficiently servers up files. 
   - Course Plan
+  ![CoursePlan](img/KakaoTalk_20210110_212701012_01.jpg)
 
 ### 5. Exercise: Adding CSS and JavaScript to Tim's website
   - [Tim's website](http://info.cern.ch/hypertext/WWW/TheProject.html)
