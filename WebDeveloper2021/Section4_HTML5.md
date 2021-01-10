@@ -2,7 +2,7 @@
    - text editor: a program that allows us to write code.
   (ex)sublime text 3, atom, ... etc
    - The set of rules that all HTML files must follow
-   - index.html
+   - [index.html](example/index.html)
 ``` HTML
 <!DOCTYPE html>
 <html>
@@ -24,6 +24,6 @@
   - Visual Studio Code
 
 ### 3. DEVELOPER FUNDMENTALS: Ⅲ
-  - <!DOCTYPE html>: to the browser, 'Hey browser we're going to be using HTML5. so please make sure that you load the website properly'
+  - "!DOCTYPE html": to the browser, 'Hey browser we're going to be using HTML5. so please make sure that you load the website properly'
   - a concept across that as a developer, you want to understand how things work and what they mean.
   - Use 'Google'
