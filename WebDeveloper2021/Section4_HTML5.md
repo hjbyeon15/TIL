@@ -58,3 +58,4 @@
    - "li" tag: within ol tag
  - "ul" tag: Unordered list
  - ol, ul, li are all about nesting, and having parent tags, and children tags.
+![20210111_HTML_TAG_WEB](img/20210111_html_tag.png)
