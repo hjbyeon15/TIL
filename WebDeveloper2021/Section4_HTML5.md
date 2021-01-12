@@ -59,3 +59,31 @@
  - "ul" tag: Unordered list
  - ol, ul, li are all about nesting, and having parent tags, and children tags.
 ![20210111_HTML_TAG_WEB](img/20210111_html_tag.png)
+
+### Self Closing HTML Tags
+  - <tag_name>: opening, </tag_name>: closing
+  - a few elements that don't have this syntax but they have something called 'self-closing tags';
+  - (ex)br, hr, img
+  - just have one single element, self-closing
+  - (ex)"br /" syntax -> old version. xHTML
+  - some HTML tags can have something called attributes, which add special properties to the specific tag. (ex)img -> src(=sorce). an attribute alwasy has a value attached.
+
+### Anchor Tag
+  - power of HTML is in its ability to link to other document.
+  - anchor tag - "a tag", opening and closing tags
+  - 'href' is an attribute and it'sthe hypertext reference.
+  - ability to link to other pages.
+
+### Q&A: index.html
+(ex)
+![Question1_example](img/KakaoTalk_20210112_235641890.jpg)
+  - Q: how does the server know which html(file) to return first for the homepage?
+  - A: By default most servers return 'index.html' if they see 'index.html'
+  - A: This is a common practice that you'll see in a lot of the projects that a lot of the websites is that 'index.html' is usually, you can think of it as the home-page, the first a HTML file
+
+### Q&A: Relative vs Absolute Path
+  - Q:index.html, newpage.html a tag에 생성할 때, .html로 경로 설정 종료. 사실상 로컬의 Documents/../index.html의 경로를 가지고 있지만 그걸 표기하지 않음 vs img tag에서 구글링한 이미지의 소스 주소 -> 전체 주소 그대로.https~ - 이 두 방식의 차이란 무엇인가
+  - A: Using the file protocol. a tag의 사용방식 - relative path. a tag newpage예시 -> index.html has relative path to newpage.html. 만약 index.html파일이 있는 경로에서 test 폴더 생성 후, 해당 폴더 안에 newpage.html을 넣어둔다면, a tag의 path는 'test/newpage.html'로 변경되어야 한다.
+  - A: Absolute path. img tag we are accessing the image through http, which we'll get into later video when we talk about servers.
+    - https protocol
+    - No matter where I reference this link will get me link page
