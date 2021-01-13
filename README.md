@@ -7,7 +7,7 @@
 
 ## Udemy
 - Udemy 강의 수강 내용
-- [The Complete Web Developer in 2021: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/9135004#overview)
+- [The Complete Web Developer in 2021: Zero to Mastery](/WebDeveloper2021/Section2_HowTheInternetWorks.md)
 
 ## 코딩테스트
 - 코딩테스트 연습
