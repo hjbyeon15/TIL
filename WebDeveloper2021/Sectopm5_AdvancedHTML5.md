@@ -25,3 +25,27 @@
 - It starts off,with question mark wich states, coming up, we're going to have a bunch of data for you. corresponds with the name(as property), that we have in our form. and value(input box에 입력하는 값 - ?firstname=fake의 fake부분)
 - URL encoding
 - (ex)radio-button, checkbox, select box-options - URL ?gender=On - parameter value를 알 수 없음. - value attribute 추가.(명시)
+
+### HTML Tags3
+- comment: :"<!-- -->"
+- 'div' tag: are used to divide content. it is very powerful when we get into CSS.'div' tag allows us to add styles and divide up the content into each different section, so than, each section of our website, can have its own little box.
+- 'span' tag: span is a inline element, so an inline element is different from a block element, 'span' tag we can add it to a specific line. -> we can add some styles only to the "First Name". and we can emphasize it.
+- tags that we can use as tools, when we want to have a container, an invisible container, around a piece of element and are HTML
+
+### HTML vs HTML5
+- What HTML5 is? - the lates
+- There are many evolutions of HTML
+- Many websites contain HTML code like:
+```HTML
+<div id='nav'>
+<div class="header">
+<div id="footer">
+```
+to indicate navigation, header, and footer
+- HTML offers new semantic elements to define different parts of a web page
+- header means, nav means and footer means, give a lot more meaning to the web page and it'll have a better idea of, how the website is structured and where it's their rank and thir Google search results.
+- Good to SEO performance
+- HTML5 tries to, improve the performance of the web
+
+### Copy a website
+- Windows: Ctrl+U - 페이지 소스보기
