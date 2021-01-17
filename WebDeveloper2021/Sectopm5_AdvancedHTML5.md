@@ -49,3 +49,50 @@ to indicate navigation, header, and footer
 
 ### Copy a website
 - Windows: Ctrl+U - 페이지 소스보기
+
+### HTML Challenge
+- send your own website with HTML5
+
+### [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp) - 38/40
+- HTML
+- Web Standard
+- largest heading tag
+- break line tag
+- add backgroud color
+```html
+<body style="background-color:yellow;>
+```
+- important text tag - strong tag
+- emphasized text tag - em tag
+- creating a hyperlink
+- hyperlink in new tab or browser option(a tag)
+```html
+<a href="url" target="_blank">
+```
+- table tag elements - table, tr, td
+- Inline elements are normally displayed without starting a new line - True
+- textarea tag
+- inserting background image
+```html
+<body style="background-image:url(background.gif)">
+```
+- iframe tag is used to display a web page within a web page - True
+- Block elements are normally displayed without starting new linke - False 
+- img alt attribute: specifies an alternate text for an image, if the image cannot be displayed
+- SVG elements <-In HTML, you can embded SVG elements directly into an HTML page
+- contenteditable is global attribute specify wheather the content of an element should be editable or not.
+- onblur and onfocus - Event attributes
+- XML - format of graphics defined by SVG 
+- canvas element is used to draw graphics
+- required attribute is used to specify that an input field must be filled out.
+- input type - range defines a slider control.
+- meter HTML element used to display a scalar measurement within a range
+- nav tag HTML element defines navigation links
+- aside tag: define content aside from the page content
+- video tag
+- audio tag
+- header tag HTML element is used to specify a header for a document or section
+- 추가: [HTML syntaxes](https://www.w3schools.com/html/exercise.asp)
+
+### Optional Exercise: More HTML
+- [practice](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
