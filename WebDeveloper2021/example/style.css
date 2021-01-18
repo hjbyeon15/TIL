@@ -3,14 +3,46 @@ Selector {
     Property: value;
 } 
 */
-
-h2 {
-    color: red;
-    background-color: #4d95c6; 
+* {
+    text-align: right;
+}
+body {
+    background-image: url(../img/moon.jpg);
+    background-size: cover;
+}
+h2, p{
+    color: #AA4139;
+    text-align: center;
+    /* border: 5px solid rgb(255,176,170); */
+    border: 5px solid rgba(255,176,170,1);
+    cursor: pointer;
+    /* background-color: #4d95c6;  */
 }
 p {
     color: pink;
 }
 p {
     color: green;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    color: #4d95c6;
+}
+
+.webtext {
+    border: 5px dashed green;
+}
+
+.active {
+    color: red;
+}
+
+#div1 {
+    background: rgba(0,0,255,0.2);
+}
+
+#div2 {
+    background: rgba(255,0,255,0.2);
 }
