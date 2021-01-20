@@ -49,9 +49,51 @@ p {
 - .class is a good way to select a group of elements and make sure that they all have same things
 - #id is similar to class except for you can use the same ID only once
 - * is not used very often but it symbolizes all elements. often use in the top
+- element space element
+- element, element
+- element > element
+- element + element
+- :last-childe
+- :first-child
+- !important (not recommended): overrides any of the cascading rules(breaks rule of the cascading style)
+- What selectors win out in the cascade deoebds on
+  - Specificity [(참고)](https://specificity.keegan.st/)
+  - Importance
+  - Source Order
 ### Optional Exercise: CSS Selectors(article)
+- [CSS Selector Game](https://css-diner.netlify.app)
 ### Text and Font
+- text-decoration
 ### Images In CSS
+- float
+- footer - clear
 ### Box Model
+- ![BoxModel](img/KakaoTalk_20210120_213807934.jpg)
+```css
+padding: 5px 20px 5px 20px
+=padding: top right bottome left
+padding-top: 5px
+margin: 0px 20px 0px 20px;
+=margin: top right bottome left
+margin: 0px 20px;
+margin: tom&bottom left&right;
+```
 ### px vs em vs rem
+- em: stays relative th the p one other one. -> 속한 태그의 크기 속성의 크기 배수만큼 보임
+- (EX) span안의 Lorem ipsum은 기타 P 태그 내용 폰트 크기의 5배. 해당 예시의 경우 span의 폰트 사이즈 100px과 동일함.
+```html
+<p>Introduction</p>
+<p><span>Lorem ipsum</span> dolor sit amet</p>
+```
+```css
+p {
+    font-size: 20px;
+}
+span {
+    font-size: 5em;
+}
+```
+- rem: size in relation to root element(HTML).
 ### Exercise: CSS Quiz
+- [Quiz](https://www.w3schools.com/css/exercise.asp)
+- [Reference](https://zero-to-mastery.github.io/resources/)

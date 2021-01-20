@@ -10,19 +10,48 @@ body {
     background-image: url(../img/moon.jpg);
     background-size: cover;
 }
-h2, p{
+h2 {
+    color: red;
+}
+
+/*h2 + p:hover {*/
+/*
+    h2 + p {
     color: #AA4139;
     text-align: center;
     /* border: 5px solid rgb(255,176,170); */
+    /*
     border: 5px solid rgba(255,176,170,1);
     cursor: pointer;
+    */
     /* background-color: #4d95c6;  */
-}
+/*}
+*/
 p {
-    color: pink;
+    color: pink /*!important*/;
+    text-transform: uppercase;
+    text-decoration: underline;
+    line-height: 20px;
+    font-style:italic;
+    font-weight: bold;
+    font-size: 100%;
+    font-family: "Times New Roman", Georgia;
+    cursor: pointer;
 }
+
 p {
     color: green;
+    font-family: 'Roboto', sans-serif, cursive;
+}
+
+img {
+    /*float: left;*/
+    float: right;
+}
+
+footer {
+    clear: both;
+    text-align: center;
 }
 
 li {
@@ -31,7 +60,7 @@ li {
     color: #4d95c6;
 }
 
-.webtext {
+.webtext:first-child {
     border: 5px dashed green;
 }
 
