@@ -95,5 +95,6 @@ span {
 ```
 - rem: size in relation to root element(HTML).
 ### Exercise: CSS Quiz
-- [Quiz](https://www.w3schools.com/css/exercise.asp)
+- [Practice_CSS](https://www.w3schools.com/css/exercise.asp)
+  - 2021.01.20 진도체크: 8/138 
 - [Reference](https://zero-to-mastery.github.io/resources/)
