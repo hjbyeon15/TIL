@@ -22,3 +22,6 @@ waitbutwhy.html
 
 debug.logdebug.log 
 debug.log 
+
+# Etc
+*.zip
